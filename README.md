@@ -6,13 +6,17 @@ This is a project from [Bradtraversy's React Front To Back 2022 course.](https:/
 
 ![feedback app](./src/components/assets/feedbackapp.png)
 
-# Usage
+## Deployed Version
 
-## Install dependencies 
+A deployed version of the application can be found: https://voluble-gnome-b37345.netlify.app/
+
+## Usage
+
+### Install dependencies 
 ```shell
  npm install
 ```
-## Run 
+### Run 
 ```shell
 npm run dev
 ```
